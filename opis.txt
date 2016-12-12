@@ -1,1 +1,1 @@
-Zosta³stworzony szablon strony z po³¹czeniem do bazy danych.
+Dodano ksiêgê goœci oraz stworzono galeriê. Trwaj¹ prace nad map¹.
