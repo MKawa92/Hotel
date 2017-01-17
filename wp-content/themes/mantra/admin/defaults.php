@@ -193,9 +193,9 @@ $mantra_defaults = array(
 
 "mantra_social1" => "Facebook",
 "mantra_social2" => "#",
-"mantra_social3" => "Twitter",
+//"mantra_social3" => "Twitter",
 "mantra_social4" => "#",
-"mantra_social5" => "RSS",
+//"mantra_social5" => "RSS",
 "mantra_social6" => "#",
 "mantra_social7" => "",
 "mantra_social8" => "",
@@ -204,7 +204,7 @@ $mantra_defaults = array(
 "mantra_socialsdisplay0" => "1",
 "mantra_socialsdisplay1" => "",
 "mantra_socialsdisplay2" => "",
-"mantra_socialsdisplay3" => "1",
+//"mantra_socialsdisplay3" => "1",
 
 "mantra_copyright" => "",
 "mantra_customcss" => "/* Mantra Custom CSS */  ",

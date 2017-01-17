@@ -42,12 +42,12 @@ function   cryout_section_appereance_fn() {
 
 function   cryout_section_featured_fn() {
 //	echo "<p>".__("Insert the addreses for your social media. Leave blank if not the case.
-//	Please type the whole address (including <i>http://</i> ) Example : <u>http://www.facebook.com</u>.", "mantra")."</p>";
+//	Please type the whole address (including <i>http://www.facebook.com/maciej.kawa2</i> ) Example : <u>http://www.facebook.com</u>.", "mantra")."</p>";
 }
 
 function   cryout_section_social_fn() {
-//	echo "<p>".__("Insert the addreses for your social media. Leave blank if not the case.
-//	Please type the whole address (including <i>http://</i> ) Example : <u>http://www.facebook.com</u>.", "mantra")."</p>";
+//	echo "<p>"http://www.facebook.com/maciej.kawa2("Insert the addreses for your social media. Leave blank if not the case.
+//	Please type the whole address (including <i>http://www.facebook.com/maciej.kawa2</i> ) Example : <u>http://www.facebook.com</u>.", "mantra")."</p>";
 }
 
 function   cryout_section_misc_fn() {
@@ -1945,7 +1945,7 @@ foreach($items as $id=>$item) {
 function cryout_setting_social_master($i) {
 	$cryout_special_keys = array('Mail', 'Skype');
 	$cryout_social_small = array (
-		'',__('Select your desired Social network from the left dropdown menu and insert your corresponding address in the right input field. (ex: <i>http://www.facebook.com/yourname</i> )','mantra'),
+		'',__('Select your desired Social network from the left dropdown menu and insert your corresponding address in the right input field. (ex: <i>http://www.facebook.com/maciej.kawa2</i> )','mantra'),
 		'',__("You can insert up to 5 different social sites and addresses.",'mantra'),
 		'',__("There are a total of 27 social networks to choose from. ",'mantra'),
 		'',__("You can leave any number of inputs empty. "	,'mantra'),

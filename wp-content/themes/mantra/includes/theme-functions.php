@@ -146,7 +146,7 @@ add_action ('cryout_branding_hook','mantra_title_and_description');
  mantra_set_social_icons('sfooter');
  }
 
-//if($mantra_socialsdisplay0) add_action('cryout_branding_hook', 'mantra_header_socials');
+if($mantra_socialsdisplay0) add_action('cryout_branding_hook', 'mantra_header_socials');
 if($mantra_socialsdisplay1) add_action('cryout_forbottom_hook', 'mantra_smenul_socials');
 if($mantra_socialsdisplay2) add_action('cryout_forbottom_hook', 'mantra_smenur_socials');
 if($mantra_socialsdisplay3) add_action('cryout_footer_hook', 'mantra_footer_socials',13);

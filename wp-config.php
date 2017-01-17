@@ -21,16 +21,22 @@
 
 // ** Ustawienia MySQL-a - możesz uzyskać je od administratora Twojego serwera ** //
 /** Nazwa bazy danych, której używać ma WordPress */
+//define('DB_NAME', 'u669706290_hotel');
 define('DB_NAME', 'hotel_baza');
 
 /** Nazwa użytkownika bazy danych MySQL */
+//define('DB_USER', 'u669706290_root');
 define('DB_USER', 'root');
 
 /** Hasło użytkownika bazy danych MySQL */
+//define('DB_PASSWORD', 'student');
 define('DB_PASSWORD', '');
 
 /** Nazwa hosta serwera MySQL */
+//define('DB_HOST', 'mysql.hostinger.pl');
 define('DB_HOST', 'localhost');
+
+
 
 /** Kodowanie bazy danych używane do stworzenia tabel w bazie danych. */
 define('DB_CHARSET', 'utf8mb4');
